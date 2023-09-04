@@ -81,7 +81,7 @@ The container MySQL is the database of the backend to store data. We had to pick
 ## 2.4 - Mailer : Quarkus
 
 We needed to setting up a way to send email to users. Quarkus is a Java framework which is very quick to deploy and to use. We used Google to send the emails.
-> The emails are send by the email address : "kikilemarchantdesable@gmail.com"
+> The emails are send by the email address : *your email*
 
 **Why Quarkus ?** Quarkus was a good solution because it is very quick to deploy. Also, despite is a java based framework, it is possible to compiled it natively to gain performance during execution.
 
